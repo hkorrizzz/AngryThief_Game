@@ -1,8 +1,8 @@
 Проект представляет собой подобие популярной игры Angry Birds, разработанный на Unity (2025). Игрок управляет вором, запуская её из рогатки, чтобы разрушать конструкции и забирать монеты.
 
-![Гы](Screenshots/ThiefGame1.png)
-![у](Screenshots/ThiefGame2.png)
-![у](Screenshots/ThiefGame3.png)
+![Гы](Screenshots/ThiefGame1.gif)
+![у](Screenshots/ThiefGame2.gif)
+![у](Screenshots/ThiefGame3.gif)
 
 **Основные классы**
 - AngieBird – запуск, физика, поворот, коллизии, звук
